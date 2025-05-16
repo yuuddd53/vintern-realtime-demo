@@ -6,7 +6,7 @@ Mô hình Vintern rất nhẹ (1B), có thể chạy trên máy tính cá nhân 
 
 Tham khảo mô hình gốc tại đây: https://huggingface.co/5CD-AI/Vintern-1B-v3_5
 
-Sẻver chỉ cần internet để tải mô hình cho lần chạy đầu tiên. Từ lần thứ 2, bạn có thể chạy 100% **không cần internet**
+Server chỉ cần internet để tải mô hình cho lần chạy đầu tiên. Từ lần thứ 2, bạn có thể chạy 100% **không cần internet**
 
 ## Cách thiết lập
 
